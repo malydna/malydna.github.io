@@ -3,4 +3,4 @@ layout: post
 title: Welcome to malydna's World!
 ---
 
-This is my first blog which I have forked from Barry Clark's Jekyll Now repo.
+This is the beginning of this cultural blog. The blog will share and comment on some fascinating museums and archives, including both in-person and online digital versions. Wish you enjoy it and retain some useful information after reading this blog!
